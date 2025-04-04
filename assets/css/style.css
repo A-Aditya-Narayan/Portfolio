@@ -1,4 +1,42 @@
-
+ {
+            animation: backgroundAnimation 16s infinite;
+        }
+        @keyframes backgroundAnimation {
+            0% { background-color: #FF5733; }
+            3% { background-color: #33FF57; }
+            6% { background-color: #3357FF; }
+            9% { background-color: #FF33A1; }
+            12% { background-color: #33FFF5; }
+            15% { background-color: #FFB533; }
+            18% { background-color: #A133FF; }
+            21% { background-color: #57FF33; }
+            24% { background-color: #333FFF; }
+            27% { background-color: #FF3366; }
+            30% { background-color: #33FFD1; }
+            33% { background-color: #FF6633; }
+            36% { background-color: #6633FF; }
+            39% { background-color: #33A1FF; }
+            42% { background-color: #FFF533; }
+            45% { background-color: #FF5733; }
+            48% { background-color: #57FFF5; }
+            51% { background-color: #FF33B5; }
+            54% { background-color: #33FF85; }
+            57% { background-color: #FF8333; }
+            60% { background-color: #3385FF; }
+            63% { background-color: #FF3380; }
+            66% { background-color: #33FFA5; }
+            69% { background-color: #FFA533; }
+            72% { background-color: #3333FF; }
+            75% { background-color: #FF3333; }
+            78% { background-color: #33FFB5; }
+            81% { background-color: #FFB533; }
+            84% { background-color: #33A5FF; }
+            87% { background-color: #FF3385; }
+            90% { background-color: #33FF85; }
+            93% { background-color: #FFA533; }
+            96% { background-color: #3385FF; }
+            100% { background-color: #FF5733; }
+	    }
 *{
     padding: 0;
     margin: 0;
